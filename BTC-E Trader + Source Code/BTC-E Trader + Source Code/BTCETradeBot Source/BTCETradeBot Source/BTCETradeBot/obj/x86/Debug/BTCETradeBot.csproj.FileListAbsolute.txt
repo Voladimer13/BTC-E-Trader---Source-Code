@@ -1,0 +1,39 @@
+Z:\Dropbox\0 Files\Projects\BTC\BTCETradeBot\BTCETradeBot\bin\Debug\BTCETradeBot.exe.config
+Z:\Dropbox\0 Files\Projects\BTC\BTCETradeBot\BTCETradeBot\bin\Debug\BTCETradeBot.exe
+Z:\Dropbox\0 Files\Projects\BTC\BTCETradeBot\BTCETradeBot\bin\Debug\BTCETradeBot.pdb
+Z:\Dropbox\0 Files\Projects\BTC\BTCETradeBot\BTCETradeBot\bin\Debug\BtceApi.dll
+Z:\Dropbox\0 Files\Projects\BTC\BTCETradeBot\BTCETradeBot\bin\Debug\Newtonsoft.Json.dll
+Z:\Dropbox\0 Files\Projects\BTC\BTCETradeBot\BTCETradeBot\bin\Debug\BtceApi.pdb
+Z:\Dropbox\0 Files\Projects\BTC\BTCETradeBot\BTCETradeBot\obj\x86\Debug\BTCETradeBot.csprojResolveAssemblyReference.cache
+Z:\Dropbox\0 Files\Projects\BTC\BTCETradeBot\BTCETradeBot\obj\x86\Debug\BTCETradeBot.frmMain.resources
+Z:\Dropbox\0 Files\Projects\BTC\BTCETradeBot\BTCETradeBot\obj\x86\Debug\BTCETradeBot.frmAbout.resources
+Z:\Dropbox\0 Files\Projects\BTC\BTCETradeBot\BTCETradeBot\obj\x86\Debug\BTCETradeBot.Properties.Resources.resources
+Z:\Dropbox\0 Files\Projects\BTC\BTCETradeBot\BTCETradeBot\obj\x86\Debug\BTCETradeBot.csproj.GenerateResource.Cache
+Z:\Dropbox\0 Files\Projects\BTC\BTCETradeBot\BTCETradeBot\obj\x86\Debug\BTCETradeBot.exe
+Z:\Dropbox\0 Files\Projects\BTC\BTCETradeBot\BTCETradeBot\obj\x86\Debug\BTCETradeBot.pdb
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\bin\Debug\BTCETradeBot.exe.config
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\obj\x86\Debug\BTCETradeBot.exe
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\obj\x86\Debug\BTCETradeBot.pdb
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\bin\Debug\BTCETradeBot.exe
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\bin\Debug\BTCETradeBot.pdb
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\bin\Debug\BtceApi.dll
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\bin\Debug\Newtonsoft.Json.dll
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\bin\Debug\BtceApi.pdb
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\obj\x86\Debug\BTCETradeBot.csprojResolveAssemblyReference.cache
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\obj\x86\Debug\BTCETradeBot.frmMain.resources
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\obj\x86\Debug\BTCETradeBot.frmAbout.resources
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\obj\x86\Debug\BTCETradeBot.Properties.Resources.resources
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\obj\x86\Debug\BTCETradeBot.csproj.GenerateResource.Cache
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\bin\Debug\BTCETradeBot.exe.config
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\obj\x86\Debug\BTCETradeBot.exe
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\obj\x86\Debug\BTCETradeBot.pdb
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\bin\Debug\BTCETradeBot.exe
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\bin\Debug\BTCETradeBot.pdb
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\bin\Debug\BtceApi.dll
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\bin\Debug\Newtonsoft.Json.dll
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\bin\Debug\BtceApi.pdb
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\obj\x86\Debug\BTCETradeBot.csprojResolveAssemblyReference.cache
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\obj\x86\Debug\BTCETradeBot.frmMain.resources
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\obj\x86\Debug\BTCETradeBot.frmAbout.resources
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\obj\x86\Debug\BTCETradeBot.Properties.Resources.resources
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BTCETradeBot\obj\x86\Debug\BTCETradeBot.csproj.GenerateResource.Cache
